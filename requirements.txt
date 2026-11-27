@@ -1,0 +1,5 @@
+anthropic==0.73.0
+crewai==1.15.45
+crewai-tools==1.15.45
+python-dotenv==1.2.4
+serpapi==1.3.0
